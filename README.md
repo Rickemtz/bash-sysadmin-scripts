@@ -1,11 +1,11 @@
-# bash-sysadmin-scripts 🛠️
+# bash-scripts 
 
 Colección de scripts Bash para administración de sistemas Linux en entornos productivos.  
 Desarrollados y usados en producción como parte de mi rol como **SysAdmin Linux Jr**.
 
 ---
 
-## 📂 Estructura
+## Estructura
 
 ```
 bash-sysadmin-scripts/
@@ -21,7 +21,7 @@ bash-sysadmin-scripts/
 
 ---
 
-## 🔧 Scripts
+## Scripts
 
 ### `logs/log-monitor.sh` — Monitoreo de syslog
 
@@ -104,7 +104,7 @@ chmod +x wazuh/wazuh-check.sh
 
 ---
 
-## 🚀 Instalación rápida
+## Instalación rápida
 
 ```bash
 git clone https://github.com/Rickemtz/bash-sysadmin-scripts.git
