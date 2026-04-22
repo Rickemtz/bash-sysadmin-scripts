@@ -1,7 +1,6 @@
 # bash-scripts 
 
-Colección de scripts Bash para administración de sistemas Linux en entornos productivos.  
-Desarrollados y usados en producción como parte de mi rol como **SysAdmin Linux Jr**.
+Colección de scripts Bash para administración de sistemas Linux.  
 
 ---
 
@@ -92,7 +91,7 @@ chmod +x wazuh/wazuh-check.sh
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 | Herramienta | Uso |
 |---|---|
@@ -114,7 +113,7 @@ chmod +x **/*.sh
 
 ---
 
-## ⚠️ Notas
+## Notas
 
 - Los scripts de gestión de usuarios y backup requieren `sudo` o usuario `root`.
 - Adapta las rutas en `sftp-backup.sh` (`SOURCE_DIRS`, `BACKUP_ROOT`) según tu entorno.
